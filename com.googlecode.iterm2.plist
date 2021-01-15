@@ -4,16 +4,6 @@
 <dict>
 	<key>Actions</key>
 	<array/>
-	<key>AppleAntiAliasingThreshold</key>
-	<integer>1</integer>
-	<key>ApplePressAndHoldEnabled</key>
-	<false/>
-	<key>AppleScrollAnimationEnabled</key>
-	<integer>0</integer>
-	<key>AppleSmoothFixedFontsSizeThreshold</key>
-	<integer>1</integer>
-	<key>AppleWindowTabbingMode</key>
-	<string>manual</string>
 	<key>CloseBookmarksWindowAfterOpening</key>
 	<true/>
 	<key>Command</key>
@@ -539,13 +529,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.84705882352941175</real>
+				<real>0.84313725490196079</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
 				<real>0.68627450980392157</real>
 				<key>Red Component</key>
-				<real>0.53333333333333333</real>
+				<real>0.52941176470588236</real>
 			</dict>
 			<key>Ansi 13 Color</key>
 			<dict>
@@ -604,13 +594,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.42352941632270813</real>
+				<real>0.52941176470588236</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.73725491762161255</real>
+				<real>0.68235294117647061</real>
 				<key>Red Component</key>
-				<real>0.93333333730697632</real>
+				<real>0.99607843137254903</real>
 			</dict>
 			<key>Ansi 4 Color</key>
 			<dict>
@@ -630,13 +620,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.84313725490196079</real>
+				<real>0.83921568627450982</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.52941176470588236</real>
+				<real>0.52549019607843139</real>
 				<key>Red Component</key>
-				<real>0.68627450980392157</real>
+				<real>0.67843137254901964</real>
 			</dict>
 			<key>Ansi 6 Color</key>
 			<dict>
@@ -709,8 +699,6 @@
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
-			<key>Background Image Location</key>
-			<string>/Users/abelab/Pictures/ターミナル背景/現在.png</string>
 			<key>Background Image Mode</key>
 			<integer>2</integer>
 			<key>Badge Color</key>
