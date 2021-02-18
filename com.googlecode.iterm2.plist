@@ -780,13 +780,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>1</real>
+				<real>0.97647058823529409</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>1</real>
+				<real>0.97647058823529409</real>
 				<key>Red Component</key>
-				<real>0.99999600648880005</real>
+				<real>0.97647058823529409</real>
 			</dict>
 			<key>Custom Command</key>
 			<string>No</string>
@@ -1169,26 +1169,26 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>1</real>
+				<real>0.97647058823529409</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>1</real>
+				<real>0.97647058823529409</real>
 				<key>Red Component</key>
-				<real>1</real>
+				<real>0.97647058823529409</real>
 			</dict>
 			<key>Selection Color</key>
 			<dict>
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.42745098471641541</real>
+				<real>0.22745098039215686</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.3490196168422699</real>
+				<real>0.14117647058823529</real>
 				<key>Red Component</key>
-				<real>0.3333333432674408</real>
+				<real>0.22352941176470589</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -1546,8 +1546,6 @@
 			<string>kNextWindowPointerAction</string>
 		</dict>
 	</dict>
-	<key>PreventEscapeSequenceFromClearingHistory</key>
-	<false/>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>PromptOnQuit</key>
